@@ -1,6 +1,6 @@
 public class LCM {
     public static void main(String[] args){
-        int a= 24;
+        int a= 26;
         int b= 36;
         int gret = (a>b)?a:b;
         int lcm=1;
